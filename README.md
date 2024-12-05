@@ -8,7 +8,7 @@ VarginPlotMulti is simply an addtion to the standard function that allows you to
 Example Input:
 VarginPlot('LRSP1.set','HRSP1.set',[65,69,70,83,84,90], 'LRS', 'HRS',[150,190],250,-600)
 
-VarginPlotMulti('LRSP1.set','HRSP1.set','NRSP1.set', [], [65,69,70,83,84,90], 'LRS', 'HRS','NRS',[],[150,190],250,-600)
+VarginPlotMulti(3,'LRSP1.set','HRSP1.set','NRSP1.set', [], [65,69,70,83,84,90], 'LRS', 'HRS','NRS',[],[150,190],250,-600)
 
 Prerequisites:
 MATLAB
