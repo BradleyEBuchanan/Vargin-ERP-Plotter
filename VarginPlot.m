@@ -8,7 +8,7 @@ function VarginPlot(File1, File2, electrodes, Legend1, Legend2, patch_range, Sam
       % Legend2     - Legend title for the second group (string)
       % patch_range - Time range for shaded patch [start_time, end_time]
       % Samp        - Sample rate for dynamic x-axis range adjustment
-      % baseline    - Baseline shift in timepoints. Default is -250.
+      % baseline    - Baseline shift in timepoints. Default is -200.
       
 
     % Get the current working directory
